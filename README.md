@@ -22,7 +22,7 @@ I'm Ayoolisa, a curious and passionate software developer always looking to lear
  **Personal projects:** I'm currently honing my skills by working on building a web application that offers internet and airtime recharge and other bill payment services.
  **Open-source contributions:** I'm looking to contribute to open-source projects that align with my interests.
 
-### Currently learning:**
+### Currently learning:
 
  **New programming languages:** I'm currently diving into ReactJS.
  **New frameworks and libraries:** I'm exploring the potential of React.
@@ -50,7 +50,7 @@ I'm Ayoolisa, a curious and passionate software developer always looking to lear
 * Email: lekelisa247@gmail.com
 * LinkedIn: [https://www.linkedin.com/in/ayomide-olisa-97708a2a1](https://www.linkedin.com/in/ayomide-olisa-97708a2a1)
 
-** Pronouns:** He/Him
+**Pronouns:** He/Him
 
 **⚡ Fun fact:** I can generate creative text formats, like poems, scripts, and musical pieces! 
 
