@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 I'm Ayoolisa, a curious and passionate software developer always looking to learn and grow.  My journey in the tech world is just beginning, but I'm excited to see where it takes me! 🫠
 
-### Currently working on:
-
- **Personal projects:** I'm currently honing my skills by working on building a web application that offers internet and airtime recharge and other bill payment services.
- **Open-source contributions:** I'm looking to contribute to open-source projects that align with my interests.
-
 ### Currently learning:
 
  **New programming languages:** I'm currently diving into ReactJS.
