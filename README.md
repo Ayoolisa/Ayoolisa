@@ -38,12 +38,6 @@ I'm Ayoolisa, a curious and passionate software developer always looking to lear
 * Optimizing code for performance and efficiency.
 * Debugging tricky issues and finding creative solutions.
 
-### Ask me about:
-
-#### My favorite programming languages and tools.
-#### My experiences learning and growing as a developer.
-#### My thoughts on the latest tech trends and innovations.
-
 ### How to reach me:
 
 * GitHub: Ayoolisa
