@@ -39,8 +39,6 @@ I'm Ayoolisa, a curious and passionate software developer always looking to lear
 * Email: lekelisa247@gmail.com
 * LinkedIn: [https://www.linkedin.com/in/ayomide-olisa-97708a2a1](https://www.linkedin.com/in/ayomide-olisa-97708a2a1)
 
-**Pronouns:** He/Him
-
 **⚡ Fun fact:** I can generate creative text formats, like poems, scripts, and musical pieces! 
 
 I'm always open to connecting with other developers, so please feel free to reach out! 
